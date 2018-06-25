@@ -8,14 +8,14 @@
 }
 
 #clockdiv > div{
-	padding: 10px;
+	padding: 8px;
 	border-radius: 3px;
 	background:  #d98880;
 	display: inline-block;
 }
 
 #clockdiv div > span{
-	padding: 15px;
+	padding: 10px;
 	border-radius: 3px;
 	background: #a93226 ;
 	display: inline-block;
@@ -23,5 +23,5 @@
 
 .smalltext{
 	padding-top: 5px;
-	font-size: 16px;
+	font-size: 14px;
 }
